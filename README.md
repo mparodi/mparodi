@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Languages I Know
+#### Languages I Know
 
 <div class="border d-flex">
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
@@ -9,7 +9,7 @@
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
 
-### Libraries and Frameworks I use
+#### Libraries and Frameworks I use
 
 <div class="border d-flex">
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
@@ -19,7 +19,7 @@
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 </div>
 
-### Tech I use
+#### Tech I use
 
 <div class="border d-flex">
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
@@ -29,6 +29,10 @@
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </div>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mparodi&show_icons=true&count_private=true&include_all_commits=true)
+
+
 
 <!--
 **mparodi/mparodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
