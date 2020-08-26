@@ -30,6 +30,8 @@
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </div>
 
+
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mparodi&show_icons=true&count_private=true&include_all_commits=true)
 
 
