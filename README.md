@@ -30,7 +30,7 @@
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </div>
 
-<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
+<img src="https://github.com/mparodi/mparodi/blob/master/images/stat.svg" alt="Alternative Text"/>
 Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
 
 
