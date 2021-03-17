@@ -30,9 +30,9 @@
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </div>
 
-## My last week coding times ;)
+<!--## My last week coding times ;)
 
-<img src="https://github.com/mparodi/mparodi/blob/master/images/stat.svg" alt="Alternative Text"/>
+<!--<img src="https://github.com/mparodi/mparodi/blob/master/images/stat.svg" alt="Alternative Text"/>
 
 
 <!--
