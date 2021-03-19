@@ -14,7 +14,7 @@
 <div class="border d-flex">
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
+  <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 </div>
 
@@ -27,6 +27,13 @@
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+</div>
+
+#### My workspace spec
+
+<div class="border d-flex">
+  <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/AMD-Ryzen_9_3900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 </div>
 
 <!--## My last week coding times ;)
