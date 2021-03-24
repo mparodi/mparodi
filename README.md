@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-Reach me, Im friendly :D
-
-<a href="https://www.linkedin.com/in/mathiasparodi/">
-<img alt="LinkedIn"  src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-
-
+<div class="border d-flex">
+  <a class="p-5 border bg-gray-light" href="https://www.linkedin.com/in/mathiasparodi/">
+    <img alt="LinkedIn"  src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
 #### Technologies I Enjoy
 
@@ -26,11 +23,10 @@ Reach me, Im friendly :D
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 </div>
+<br/>
 <div class="border d-flex">
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
-  <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 </div>
 
 #### Tech I use
