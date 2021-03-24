@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-#### Languages I Know
+Reach me, Im friendly :D
+
+<img alt="LinkedIn" href="https://www.linkedin.com/in/mathiasparodi/" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+
+
+#### Technologies I Enjoy
 
 <div class="border d-flex">
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
@@ -14,6 +20,12 @@
 <div class="border d-flex">
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+</div>
+<div class="border d-flex">
+  <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
+  <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 </div>
