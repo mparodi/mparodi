@@ -49,14 +49,6 @@
   <img class="p-5 border bg-gray-light" alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
   <img class="p-5 border bg-gray-light" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
 </div>
-
-#### My workspace spec
-
-<div class="border d-flex">
-  <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img class="p-5 border bg-gray-light" src="https://img.shields.io/badge/AMD-Ryzen_9_3900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-</div>
-
 <!--## My last week coding times ;)
 
 <!--<img src="https://github.com/mparodi/mparodi/blob/master/images/stat.svg" alt="Alternative Text"/>
